@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TaylorLoatman
-- 👀 I’m interested in becoming a better Software Engineer
-- 🌱 I’m currently learning Python
+- 👀 I’m interested in becoming a Machine Learning/AI Engineer
+- 🌱 I’m currently learning ML/AI
 - 💞️ I’m looking to collaborate on python open-source projects
 - 📫 How to reach me via emaial taylor.loatman@icloud.com 
 
